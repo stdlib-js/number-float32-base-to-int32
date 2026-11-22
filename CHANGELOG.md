@@ -2,6 +2,55 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-11-22)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#16182](https://github.com/stdlib-js/stdlib/issues/16182)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2da1434`](https://github.com/stdlib-js/stdlib/commit/2da143418ec24d8154f5dd58974647b78528aea6) - **style:** resolve lint errors [(#16183)](https://github.com/stdlib-js/stdlib/pull/16183) _(by Kratos, Athan Reines)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Kratos
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-04)
